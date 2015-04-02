@@ -18,3 +18,7 @@ This game is a little like sudko, and simply requires organizing the thirteen ti
 The 'puzzles' are graded in difficulty, so that beginners can choose 'puzzles' that are easy. 
 
 Easier puzzles have more tiles placed. If the player does not use a 'puzzle', they are solving the entire problem.
+
+please note that the board game Tantrix is owned by Colour of Strategy, a New Zealand-based company. 
+
+The graphics provided to you for this assignment are in the public domain.
