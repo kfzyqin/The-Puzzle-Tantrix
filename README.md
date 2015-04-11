@@ -22,3 +22,7 @@ Easier puzzles have more tiles placed. If the player does not use a 'puzzle', th
 please note that the board game Tantrix is owned by Colour of Strategy, a New Zealand-based company. 
 
 The graphics provided to you for this assignment are in the public domain.
+
+The User Interface
+
+
